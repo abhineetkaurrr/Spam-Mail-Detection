@@ -1,14 +1,17 @@
-Spam Mail Detection Using Machine Learning
-📧 Overview
+#  Spam Mail Detection Using Machine Learning
 
 Spam mail detection is an important real-world application of Machine Learning and Natural Language Processing (NLP).
 This project focuses on building a machine learning model that classifies emails as Spam or Ham (Not Spam) using text-based features and probabilistic classification.
 
-🎯 Objective
+---
+
+## 🎯 Objective
 
 The objective of this project is to design an efficient and accurate email spam classification system using supervised machine learning techniques. The system automatically identifies unwanted spam emails and helps reduce email clutter.
 
-🧠 Approach
+---
+
+## 🧠 Approach
 
 Text preprocessing (cleaning and normalization)
 
@@ -18,7 +21,9 @@ Classification using Naive Bayes
 
 Model evaluation and prediction
 
-🛠️ Technologies Used
+---
+
+## 🛠️ Technologies Used
 
 Python
 
@@ -32,7 +37,11 @@ Natural Language Toolkit (NLTK)
 
 TF-IDF Vectorizer
 
-📂 Project Structure
+---
+
+## 📂 Project Structure
+
+```
 Spam-mail-detection/
 │
 ├── app.py               # Main application script
@@ -41,33 +50,40 @@ Spam-mail-detection/
 ├── requirements.txt     # Required Python libraries
 ├── README.md            # Project documentation
 └── .gitignore
+```
 
-⚙️ Installation
+---
 
-Clone the repository:
+## ⚙️ How to run the Project
 
+### 1️⃣ Clone the repository:
+
+```bash
 git clone https://github.com/your-username/Spam-mail-detection.git
+```
 
+### 2️⃣ Navigate to the project directory
 
-Navigate to the project directory:
-
+```bash
 cd Spam-mail-detection
+```
 
+### 3️⃣ Install dependencies:
 
-Install dependencies:
-
+```bash
 pip install -r requirements.txt
+```
 
-▶️ Usage
+### 4️⃣ Run the application using:
 
-Run the application using:
-
+```bash
 python app.py
+```
+    Enter an email message when prompted to check whether it is Spam or Ham.
 
+---
 
-Enter an email message when prompted to check whether it is Spam or Ham.
-
-📈 Model Details
+## 📈 Model Details
 
 Algorithm: Naive Bayes
 
@@ -75,7 +91,9 @@ Feature Extraction: TF-IDF
 
 Type: Binary Classification
 
-🚀 Future Improvements
+---
+
+## 🚀 Future Improvements
 
 Improve accuracy using advanced NLP techniques
 
@@ -85,9 +103,13 @@ Deploy the model to a cloud platform
 
 Support real-time email classification
 
-👩‍💻 Author
+---
+
+## 👩‍💻 Author
 
 Abhineet Kaur
+
+---
 
 📜 License
 
