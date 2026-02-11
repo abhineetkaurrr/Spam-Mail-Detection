@@ -117,8 +117,12 @@ Support real-time email classification
 
 Abhineet Kaur
 
+Computer Science | AI/ML & Systems Enthusiast
+
 ---
 
 ## 📜 License
 This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute this software.
 
