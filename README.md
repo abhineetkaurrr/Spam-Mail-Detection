@@ -1,5 +1,4 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
-[![Streamlit App](https://img.shields.io/badge/Live%20App-Streamlit-red)](https://spam-mail-detection-abhineet.streamlit.app/)
 
 
 
