@@ -12,13 +12,13 @@ This project focuses on building a machine learning model that classifies emails
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 The objective of this project is to design an efficient and accurate email spam classification system using supervised machine learning techniques. The system automatically identifies unwanted spam emails and helps reduce email clutter.
 
 ---
 
-## 🧠 Approach
+##  Approach
 
 Text preprocessing (cleaning and normalization)
 
@@ -61,7 +61,7 @@ Spam-mail-detection/
 
 ---
 
-## ⚙️ How to run the Project
+##  How to run the Project
 
 ### 1️⃣ Clone the repository:
 
@@ -90,7 +90,7 @@ python app.py
 
 ---
 
-## 📈 Model Details
+##  Model Details
 
 Algorithm: Naive Bayes
 
